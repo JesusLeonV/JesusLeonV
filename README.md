@@ -19,7 +19,8 @@ Creo firmemente que la tecnología debe ser accesible, inclusiva y capaz de reso
 ### 🚀 Proyectos Destacados
 
 * **[The Salon Barber](https://github.com/JesusLeonV/barberia---salon-barber)**: Sistema web moderno para la gestión y agendamiento de reservas en tiempo real con interfaz oscura y elegante.
-* *Próximamente más proyectos en camino...* 📦
+* **[CartonPets](https://github.com/JesusLeonV/carton-pets)**: Plataforma de e-commerce enfocada en la venta de casas y accesorios sustentables para mascotas, integrando un catálogo dinámico y un diseño responsivo.
+* *Próximamente más proyectos en camino...* 
 
 ---
 
